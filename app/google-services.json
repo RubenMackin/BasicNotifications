@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079736318310",
+    "project_id": "notifications-b42d4",
+    "storage_bucket": "notifications-b42d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079736318310:android:103a628b3c4dae015470a7",
+        "android_client_info": {
+          "package_name": "com.rubenmackin.basicnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2dscRijmDgurZEeAIDWk9e1coTGUD6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
